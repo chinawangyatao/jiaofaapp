@@ -1,0 +1,288 @@
+{
+  "pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+    {
+      "path": "pages/login/index",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/index/index",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/needDealtWith/index",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/myMessage/index",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/personalnformation/index",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/upPassword/index",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/startPatrol/index",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/endPatrol/index",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/patrolRecordList/index",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/versionInformation/index",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/regulatoryInformation/index",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/notificationReminder/index",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/toDoDetails/index",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/diseaseBank/index",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/diseaseAdd/index",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/diseaseRepair/index",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/diseaseRepairDetaile/index",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/diseaseRepairDetaileRectify/index",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/diseaseRepairDetaileFinish/index",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/diseaseRepairPartyDetaile/index",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/diseaseRepairPartyDetaileRectify/index",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/debugInformation/index",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/diseaseNurse/diseaseNurse",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/diseaseNurse/diseaseRepairDetaile",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/diseaseNurse/diseaseRepairDetaileRectify",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/diseaseNurse/diseaseRepairDetaileFinish",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/diseaseNurse/diseaseRepairPartyDetaile",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/diseaseNurse/diseaseRepairPartyDetaileRectify",
+      "style": {
+        "app-plus": {
+          "titleNView": false
+        },
+        "navigationBarTextStyle": "white"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "养护",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#2C98DE",
+    "borderStyle": "f2f4f3",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tavbar/home.png",
+        "selectedIconPath": "static/tavbar/home_on.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/needDealtWith/index",
+        "iconPath": "static/tavbar/dealt_with_default.png",
+        "selectedIconPath": "static/tavbar/dealt_with.png",
+        "text": "待办"
+      },
+      {
+        "pagePath": "pages/myMessage/index",
+        "iconPath": "static/tavbar/my.png",
+        "selectedIconPath": "static/tavbar/my_on.png",
+        "text": "我的"
+      }
+    ]
+  }
+}
